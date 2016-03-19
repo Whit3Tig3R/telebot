@@ -226,11 +226,10 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {198090746,148359319,209869646},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Tele DraGoN V2 :)
-
+    about_text = [[Tele Dragon v2
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -295,7 +294,7 @@ Send text to all groups
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-Tele DragOn ROBOT :)
+Tele Dragon v2
 
 ]],
     help_text = [[
@@ -394,7 +393,7 @@ Will return group logs
 !banlist
 Will return group ban list
 
-Tele DragOn ROBOT :)
+Tele Dragon v2
 
 ]]
   }
